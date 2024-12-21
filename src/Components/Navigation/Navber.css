@@ -1,0 +1,24 @@
+
+.navber ul{
+
+    display: flex;
+    list-style: none;
+    margin-top: 40px;
+    gap: 20px;
+
+    justify-content: center;
+
+    background: gray;
+    padding: 10px;
+   
+}
+
+.navber a {
+
+    text-decoration: none;
+    color: rgb(247, 243, 11);
+
+    
+}
+
+
